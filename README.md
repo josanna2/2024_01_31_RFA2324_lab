@@ -6,8 +6,8 @@ Sesión 2: Basándote en el cuaderno lab_02/03_olivetti_exp_pca.ipynb crea nuevo
 
 Sesión 3: 
 
-Tarea 1: Basándote en el cuaderno lab_02/02_olivetti_pca.ipynb crea un nuevo cuaderno sustituyendo el cálculo de PCA por la descomposición en valores singulares (SVD).
+- Tarea 3.1: Basándote en el cuaderno lab_02/02_olivetti_pca.ipynb crea un nuevo cuaderno sustituyendo el cálculo de PCA por la descomposición en valores singulares (SVD).
 
-Tarea 2: Basándote en el cuaderno lab_03/02_olivetti_reconstruccion_pca.ipynb crea un nuevo cuaderno que proyecte y reconstruya las imágenes utilizando la SVD.
+- Tarea 3.2: Basándote en el cuaderno lab_03/02_olivetti_reconstruccion_pca.ipynb crea un nuevo cuaderno que proyecte y reconstruya las imágenes utilizando la SVD.
 
-Tarea 3: Baśandote en el cuaderno lab_02/03_olivetti_exp_pca.ipynb evalúa el acierto del clasificador aplicando SVD en lugar de PCA.
+- Tarea 3.3: Baśandote en el cuaderno lab_02/03_olivetti_exp_pca.ipynb evalúa el acierto del clasificador aplicando SVD en lugar de PCA.
